@@ -4,10 +4,10 @@ Research
 
 ## Used Technology
 
-YOLO-V3 Algorithm
-Darknet
-OpenCV
-Python
+### YOLO-V3 Algorithm
+### Darknet
+### OpenCV
+### Python
 
 ## Unique Feature
 Solved detecting various type of vehicles in Bangladeshi roads in huge traffic jam.
